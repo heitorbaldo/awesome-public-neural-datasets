@@ -55,7 +55,6 @@ A curated list of publicly available datasets and data repositories for human an
 
 ## Brain Stimulation (TMS / tDCS / TMS-EEG)
 
-- [TMS-EEG datasets on OpenNeuro](https://openneuro.org/search/modality/eeg)
 - [TMSEEG / TESA example data](https://nigelrogasch.github.io/TESA/)
 
 ## fNIRS
