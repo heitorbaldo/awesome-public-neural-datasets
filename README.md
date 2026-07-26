@@ -37,21 +37,41 @@ A curated list of publicly available datasets and data repositories for human an
 
 ## Structural MRI
 
+- [Human Connectome Project (HCP)](https://www.humanconnectome.org) - T1/T2, diffusion, and functional imaging.
+- [ADNI (Alzheimer's Disease Neuroimaging Initiative)](https://adni.loni.usc.edu)
+- [OASIS (Open Access Series of Imaging Studies)](https://www.oasis-brains.org)
+- [Allen Human Brain Atlas](https://human.brain-map.org)
+
 ## Functional MRI (fMRI)
+
+- [1000 Functional Connectomes Project](http://fcon_1000.projects.nitrc.org)
+- [Human Connectome Project – Task fMRI](https://www.humanconnectome.org/study/hcp-young-adult)
+- [ABIDE (Autism Brain Imaging Data Exchange)](http://fcon_1000.projects.nitrc.org/indi/abide/)
 
 ## Diffusion MRI (DWI / DTI / Tractography / TDI)
 
+- [HCP Diffusion](https://www.humanconnectome.org)
+- [Human Connectome Project – Retest](https://www.humanconnectome.org)
+- [UK Biobank dMRI](https://www.ukbiobank.ac.uk)
+
 ## PET & Metabolic Imaging
+
+- [ADNI PET](https://adni.loni.usc.edu)
 
 ## EEG
 
+- [Temple University Hospital EEG Corpus (TUH EEG)](https://isip.piconepress.com/projects/tuh_eeg/)
+- [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/)
+- [OpenNeuro EEG datasets](https://openneuro.org/search/modality/eeg)
+
 ## MEG
+
+- [HCP MEG](https://www.humanconnectome.org/study/hcp-young-adult)
 
 ## Intracranial EEG (iEEG / ECoG / SEEG)
 
 - [IEEG.org](https://www.ieeg.org)
 - [OpenNeuro iEEG datasets](https://openneuro.org/search/modality/ieeg) - BIDS-iEEG human ECoG/SEEG collections.
-- 
 
 ## Single-Unit & Extracellular Electrophysiology
 
@@ -62,6 +82,8 @@ A curated list of publicly available datasets and data repositories for human an
 - [TMSEEG / TESA example data](https://nigelrogasch.github.io/TESA/)
 
 ## fNIRS
+
+- [OpenNeuro fNIRS (BIDS-NIRS)](https://openneuro.org/search/modality/nirs)
 
 ## License
 
