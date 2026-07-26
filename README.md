@@ -29,7 +29,7 @@ A curated list of publicly available datasets and data repositories for human an
 - [PhysioNet](https://physionet.org) - EEG, ECG datasets.
 - [DANDI Archive](https://dandiarchive.org) - single-unit, iEEG, calcium imaging datasets (NWB format).
 
-## Data Formats
+## Standards & Data Formats
 
 - [BIDS (Brain Imaging Data Structure)](https://bids.neuroimaging.io) - Standard format for MRI, fMRI, MEG, EEG, iEEG, and PET datasets.
 - [NWB (Neurodata Without Borders)](https://www.nwb.org) - Standard format for cellular-level neurophysiology (spikes, LFP, imaging).
