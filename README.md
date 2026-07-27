@@ -91,4 +91,4 @@ A curated list of publicly available datasets and data repositories for human an
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. This list itself is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Individual datasets retain their own licenses and access terms — always check before use.
+This list is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
