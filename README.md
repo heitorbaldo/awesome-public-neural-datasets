@@ -40,7 +40,6 @@ A curated list of publicly available datasets and data repositories for human an
 - [Human Connectome Project (HCP)](https://www.humanconnectome.org) - T1/T2, diffusion, and functional imaging.
 - [ADNI (Alzheimer's Disease Neuroimaging Initiative)](https://adni.loni.usc.edu)
 - [OASIS (Open Access Series of Imaging Studies)](https://www.oasis-brains.org)
-- [Allen Human Brain Atlas](https://human.brain-map.org)
 
 ## Functional MRI (fMRI)
 
@@ -63,6 +62,7 @@ A curated list of publicly available datasets and data repositories for human an
 - [Temple University Hospital EEG Corpus (TUH EEG)](https://isip.piconepress.com/projects/tuh_eeg/)
 - [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/)
 - [OpenNeuro EEG datasets](https://openneuro.org/search/modality/eeg)
+- [EEG Motor Movement/Imagery (EEGMMIDB)](https://physionet.org/content/eegmmidb/)
 
 ## MEG
 
@@ -72,6 +72,7 @@ A curated list of publicly available datasets and data repositories for human an
 
 - [IEEG.org](https://www.ieeg.org)
 - [OpenNeuro iEEG datasets](https://openneuro.org/search/modality/ieeg) - BIDS-iEEG human ECoG/SEEG collections.
+- [Epilepsy-iEEG (SWEC-ETHZ)](http://ieeg-swez.ethz.ch) — Long-term intracranial recordings for seizure prediction.
 
 ## Single-Unit & Extracellular Electrophysiology
 
@@ -80,6 +81,7 @@ A curated list of publicly available datasets and data repositories for human an
 ## Brain Stimulation (TMS / tDCS / TMS-EEG)
 
 - [TMSEEG / TESA example data](https://nigelrogasch.github.io/TESA/)
+- [SimNIBS example data](https://simnibs.github.io/simnibs/) — Head models for simulating TMS/tDCS electric fields.
 
 ## fNIRS
 
