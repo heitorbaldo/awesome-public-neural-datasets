@@ -1,6 +1,6 @@
 # Awesome Public Neural Datasets [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of publicly available datasets and data repositories for human and animal neuroscience, covering neuroimaging (MRI, fMRI, DWI/DTI), electrophysiology (EEG, MEG, iEEG/ECoG, single-unit), metabolic imaging (PET), and brain stimulation (TMS, tDCS).
+A curated list of publicly available datasets and data repositories for human and animal neuroscience, covering neuroimaging (MRI, fMRI, DWI/DTI), electrophysiology (EEG, MEG, iEEG/ECoG), metabolic imaging (PET), and brain stimulation (TMS, tDCS).
 
 ## Contents
 
