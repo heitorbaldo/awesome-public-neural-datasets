@@ -72,7 +72,7 @@ A curated list of publicly available datasets and data repositories for human an
 
 - [IEEG.org](https://www.ieeg.org)
 - [OpenNeuro iEEG datasets](https://openneuro.org/search/modality/ieeg) - BIDS-iEEG human ECoG/SEEG collections.
-- [Epilepsy-iEEG (SWEC-ETHZ)](http://ieeg-swez.ethz.ch) — Long-term intracranial recordings for seizure prediction.
+- [Epilepsy-iEEG (SWEC-ETHZ)](http://ieeg-swez.ethz.ch) - Long-term intracranial recordings for seizure prediction.
 
 ## Single-Unit & Extracellular Electrophysiology
 
@@ -81,7 +81,7 @@ A curated list of publicly available datasets and data repositories for human an
 ## Brain Stimulation (TMS / tDCS / TMS-EEG)
 
 - [TMSEEG / TESA example data](https://nigelrogasch.github.io/TESA/)
-- [SimNIBS example data](https://simnibs.github.io/simnibs/) — Head models for simulating TMS/tDCS electric fields.
+- [SimNIBS example data](https://simnibs.github.io/simnibs/) - Head models for simulating TMS/tDCS electric fields.
 
 ## fNIRS
 
